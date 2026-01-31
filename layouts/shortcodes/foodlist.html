@@ -1,0 +1,31 @@
+{{/* Shortcode: foodlist
+   Usage: put `{{< foodlist >}}` in a page to render a table of all posts in content/posts
+*/}}
+
+{{ $pages := where .Page.Site.RegularPages "Section" "posts" }}
+{{ $pages = sort $pages "Date" "desc" }}
+
+<table class="food-table">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Title</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $pages }}
+      <tr>
+        <td>{{ .Date.Format "2006-01-02" }}</td>
+        <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        <td>
+          {{ with .Params.description }}
+            {{ . }}
+          {{ else }}
+            {{- (.Summary | plainify | truncate 160) -}}
+          {{ end }}
+        </td>
+      </tr>
+    {{ end }}
+  </tbody>
+</table>

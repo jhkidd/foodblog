@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Everything I ate in a year'
+theme = 'hugo-theme-stack'
+
+[params.sidebar.avatar] 
+	enabled = true
+	local = true
+
+[params]
+	# Show the "posts" section on the homepage. The theme reads this to decide
+	# which content sections appear on the index page.
+	mainSections = ["posts"]
