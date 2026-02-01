@@ -1,0 +1,11 @@
+{{/* layouts/shortcodes/video.html */}}
+{{ $src := .Get "src" | default "" }}
+{{ $width := .Get "width" | default "720" }}
+{{ $poster := .Get "poster" | default "" }}
+{{ $autoplay := .Get "autoplay" | default "false" }}
+{{ $loop := .Get "loop" | default "false" }}
+
+<video controls width="{{ $width }}" {{ if eq $autoplay "true" }}autoplay playsinline muted{{ end }} {{ if eq $loop "true" }}loop{{ end }} {{ if $poster }}poster="{{ $poster }}"{{ end }} preload="metadata">
+  <source src="{{ $src }}" type="video/mp4">
+  Your browser doesn't support HTML5 video.
+</video>
