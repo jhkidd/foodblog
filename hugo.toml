@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://celadon-gnome-940c76.netlify.app/'
 languageCode = 'en-us'
 title = 'Everything I ate in a year'
 theme = 'hugo-theme-stack'
