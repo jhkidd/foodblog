@@ -7,3 +7,7 @@ theme = 'hugo-theme-stack'
 	# Show the "posts" section on the homepage. The theme reads this to decide
 	# which content sections appear on the index page.
 	mainSections = ["posts"]
+
+	# Include full content in the RSS feed so Buttondown can include post bodies
+	# in automated emails. Set to true to output full HTML content in /index.xml.
+	rssFullContent = true

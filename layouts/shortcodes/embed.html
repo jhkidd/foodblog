@@ -1,0 +1,6 @@
+{{/* layouts/shortcodes/embed.html
+   Usage: surround raw provider HTML with the shortcode to render it safely:
+   {{< embed >}}...provider html...{{< /embed >}}
+*/}}
+
+{{ .Inner | safeHTML }}
