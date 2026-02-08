@@ -47,6 +47,7 @@ The two **Ottolenghi** books - **"Simple"** and **"Flavour"** - represent a kind
 
 
 # Jan 1st: Thai pumpkin Curry
+<a id="jan-1st-thai-pumpkin-curry"></a>
 
 My parents gave me a pumpkin from their allotment (I'm incredibly middle class and make no apologies for it). I used half of it on a Dennis Cotter recipe I haven't made before, Thai pumpkin curry
 
@@ -57,6 +58,7 @@ It's not too difficult to make, you're meant to roast the pumpkin first for a wh
 I'm not sure if I'd make this again, bit too much work and I tend to like heavier flavours, especially in winter.
 
 # Jan 3rd: Roast Pumpkin Soup with Chickpeas, Leeks and Spiced Croutons
+<a id="jan-3rd-roast-pumpkin-soup-with-chickpeas-leeks-and-spiced-croutons"></a>
 
 Dead easy. You roast the whole half pumpkin in a tray resting in veg stock, which I guess steams it while it roasts? Ended up much better than my curry attempt, falling apart when it came out the oven. 
 

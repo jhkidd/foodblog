@@ -10,15 +10,16 @@ image = 'flan-cover.jpg'
 
 * **Jan 25th**: Parsnip Gnocchi with Salads
 * **Jan 26th**: Leftovers
-* **Jan 27th**: Miso leek flan
+* **Jan 27th**: Miso leek flan (*new*)
 * **Jan 28th**: Leftover flan
-* **Jan 29th**: Leek, thyme & butter bean gratin
+* **Jan 29th**: Leek, thyme & butter bean gratin (*new*)
 * **Jan 30th**: Leftover gratin
 * **Jan 31st**: Meal out at Skof (on another page)
 
-# Jan 25th: Parsnip gnocci with mustard-marinated kale, and spring onion salad
+# Jan 25th: Parsnip gnocchi with mustard-marinated kale, and spring onion salad
+<a id="jan-25th-parsnip-gnocchi"></a>
 
-On the sunday my parent's came round to book out flights to Switzerland later in the year. Andrew and I pulled out all the stops making a meal for us all. I went with the Parsnip gnocci I made a couple of weeks ago, with two of Ottolenghi's salads on the side.
+On the sunday my parent's came round to book out flights to Switzerland later in the year. Andrew and I pulled out all the stops making a meal for us all. I went with the Parsnip gnocchi I made a couple of weeks ago, with two of Ottolenghi's salads on the side.
 
 ![Gnocchi prep](gnocchi.jpg)
 
@@ -32,7 +33,8 @@ Mix together spring onions, baby cucumbers, a green pepper, mint, coriander, wit
 
 ![Forgot to take a picture of it all plated](full-meal.jpg)
 
-# Jan 25th: Miso leek flan
+# Jan 27th: Miso leek flan
+<a id="jan-27th-miso-leek-flan"></a>
 
 This one's not from a cook book, but I spotted it on guardian food and thought it sounded good. You cook down leeks in miso and honey until they go jammy, make your pastry, then layer the leeks with an egg and milk mix. You're supposed to add dashi granules but I couldn't find anywhere selling them so I added a splash of soy sauce instead.
 
@@ -44,7 +46,8 @@ I ate it with a few potatoes (in butter and chive) and some coleslaw.
 
 https://www.theguardian.com/food/2026/jan/20/miso-leek-custard-tart-recipe-fennel-slaw-kenji-morimoto
 
-# Jan 25th: Leek, thyme & butter bean gratin
+# Jan 29th: Leek, thyme & butter bean gratin
+<a id="jan-29th-leek-thyme-butter-bean-gratin"></a>
 
 Another from Georgie Mullen's "What to cook & when to cook it". I'm really liking this book, the Winter section has some hearty meals which are perfect for this time of year. Lots of leaks, butter beans, slow cooked onions. It's nice to feel like I'm eating a bit more seasonally.
 

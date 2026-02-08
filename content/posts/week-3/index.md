@@ -17,12 +17,14 @@ image = 'wassailing.jpg'
 * **Jan 17th**: Mushroom burrito (WASSAIL!)
 
 # Jan 11th: Beyond meat cheeseburger
+<a id="jan-11th-cheeseburger"></a>
 
 ![Navarro lounge burger](burger.jpg)
 
 I've officially broken the seal on restaurant meals now, first one was at Navarro lounge. All in all had a nice Cultural™ Sunday out. We visited the Whitworth art gallery, the had a free performance by some students from the RNCM, a trombone quartet. I hadn't appreciated how much spit playing the trombone generates, there was a small puddle around them by the end.
 
 # Jan 12th: Butter beans in salsa verde
+<a id="jan-12th-butter-beans-in-salsa-verde"></a>
 
 One of my favourite Meera Sodha dishes. A bunch of herbs blitzed together caper, vinegar, and garlic. Very easy to make, and hit's you round the mouth with flavour. It get's better as leftovers as well, once the beans have had time to marinate in the salsa verde. It's worth getting a nice jar of butter beans rather than a cheap tin as well.
 
@@ -34,11 +36,13 @@ One of my favourite Meera Sodha dishes. A bunch of herbs blitzed together caper,
 https://www.theguardian.com/food/2020/jul/18/meera-sodha-vegan-recipe-butter-beans-with-salsa-verde
 
 # Jan 14th: Shitty morrisons pizza
+<a id="jan-14th-pizza"></a>
 I was out at a boardgame cafe this night, and didn't get back until after most takeaways has shut. It's been a while since I've had an oven pizza, so I made the slightly drunken decision to pick one up from Morrisons on the way back to the flat.
 
 I've been spoilt by all the good pizza restaurants in Manchester, this was terrible.
 
 # Jan 15th: Tray baked butter paneer curry
+<a id="jan-15th-tray-baked-butter-paneer-curry"></a>
 
 I swear I do make recipes from people other than Meera Sodha. This one, however, is another of hers. This is the first curry I've ever made where it's all done in a baking tray, with the ingredients going in at different stages. It takes a while to cook the different bits, but you can basically just leave it once it's in the oven. 
 It's nice, but I probably won't bother with this one again. There are other Sodha curry's which are much better.
@@ -47,7 +51,8 @@ It's nice, but I probably won't bother with this one again. There are other Sodh
 
 Also, no guardian article for this one that I can see.
 
-# Jan 16th: Mushroom burrito & Wassail!
+# Jan 17th: Mushroom burrito & Wassail!
+<a id="jan-17th-mushroom-burrito"></a>
 
 Wassailing is a Twelfth Night tradition with pagan roots and has been practised in Britain for centuries, although admittedly not so much in Manchester. The purpose is to encourage the spirits into ensuring a good harvest the following season. It takes place in the weeks after Christmas, usually twelfth night, and involves visiting an orchard for singing, dancing, drinking and general merrymaking. You bring pots and pans to bang and make a hulabaloo, hang toast in the trees for the robins, and splash some of last years cider round the base of the trees to encourage growth.
 

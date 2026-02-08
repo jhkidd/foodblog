@@ -1,5 +1,5 @@
 +++
-title = "All weeks"
+title = "All meals"
 date = '2026-01-01T01:00:00Z'
 draft = false
 menu = "main"

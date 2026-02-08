@@ -1,30 +1,46 @@
 {{/* Shortcode: foodlist
-   Usage: put `{{< foodlist >}}` in a page to render a table of all posts in content/posts
+   Manual table of meals.
+
+   Usage: put `{{< foodlist >}}` in a page to render a manually-maintained
+   table of meals. The data is read from `data/meals.(yaml|toml|json)` and must
+   be an array of entries with these fields:
+     - date: YYYY-MM-DD (string)
+     - name: display name
+     - link: (optional) URL or relative path to link the name to (e.g. /posts/week-1/#lunch)
+     - source: cookbook, restaurant, etc.
+
+   This replaces the old automatic table of posts so you can hand-author each
+   meal row and point the name at headings inside your weekly posts.
 */}}
 
-{{ $pages := where .Page.Site.RegularPages "Section" "posts" }}
-{{ $pages = sort $pages "Date" "desc" }}
+{{ $meals := site.Data.meals }}
 
 <table class="food-table">
   <thead>
     <tr>
       <th>Date</th>
-      <th>Title</th>
-      <th>Description</th>
+      <th>Name</th>
+      <th>Source</th>
     </tr>
   </thead>
   <tbody>
-    {{ range $pages }}
+    {{ if $meals }}
+      {{ range $meals }}
+        <tr>
+          <td>{{ .date }}</td>
+          <td>
+            {{ if .link }}
+              <a href="{{ .link }}">{{ .name }}</a>
+            {{ else }}
+              {{ .name }}
+            {{ end }}
+          </td>
+          <td>{{ .source }}</td>
+        </tr>
+      {{ end }}
+    {{ else }}
       <tr>
-        <td>{{ .Date.Format "2006-01-02" }}</td>
-        <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
-        <td>
-          {{ with .Params.description }}
-            {{ . }}
-          {{ else }}
-            {{- (.Summary | plainify | truncate 160) -}}
-          {{ end }}
-        </td>
+        <td colspan="3">No meals found — create <code>data/meals.(yaml|toml|json)</code> with your entries.</td>
       </tr>
     {{ end }}
   </tbody>

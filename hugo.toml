@@ -11,3 +11,8 @@ theme = 'hugo-theme-stack'
 	# Include full content in the RSS feed so Buttondown can include post bodies
 	# in automated emails. Set to true to output full HTML content in /index.xml.
 	rssFullContent = true
+
+	[[menu.main]]
+		name = "Posts"
+		url = "/"
+		weight = 1

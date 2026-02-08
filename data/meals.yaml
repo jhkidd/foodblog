@@ -1,0 +1,197 @@
+# Manual list of meals. Edit and add entries here.
+# Fields: date (YYYY-MM-DD), name, link (optional), source
+# Example entry:
+# - date: "2026-01-03"
+#   name: "Breakfast — porridge with apples"
+#   link: "/posts/week-1/#breakfast"
+#   source: "Grandma's cookbook"
+
+- date: "2026-01-01"
+  name: "Thai pumpkin Curry"
+  link: "/posts/week-1/#jan-1st-thai-pumpkin-curry"
+  source: "Dennis Cotter - For the Love of Food"
+
+- date: "2026-01-02"
+  name: "Thai pumpkin Curry"
+  link: "/posts/week-1/#jan-1st-thai-pumpkin-curry"
+  source: "Dennis Cotter - For the Love of Food"
+
+- date: "2026-01-03"
+  name: "Roast Pumpkin Soup with Chickpeas, Leeks and Spiced Croutons"
+  link: "/posts/week-1/#jan-3rd-roast-pumpkin-soup-with-chickpeas-leeks-and-spiced-croutons"
+  source: "Dennis Cotter - For the Love of Food"
+
+- date: "2026-01-04"
+  name: "Roast Pumpkin Soup with Chickpeas, Leeks and Spiced Croutons"
+  link: "/posts/week-1/#jan-3rd-roast-pumpkin-soup-with-chickpeas-leeks-and-spiced-croutons"
+  source: "Dennis Cotter - For the Love of Food"
+
+- date: "2026-01-05"
+  name: "Thai pumpkin Curry"
+  link: "/posts/week-1/#jan-1st-thai-pumpkin-curry"
+  source: "Dennis Cotter - For the Love of Food"
+
+- date: "2026-01-06"
+  name: "Roast Pumpkin Soup with Chickpeas, Leeks and Spiced Croutons"
+  link: "/posts/week-1/#jan-3rd-roast-pumpkin-soup-with-chickpeas-leeks-and-spiced-croutons"
+  source: "Dennis Cotter - For the Love of Food"
+
+- date: "2026-01-07"
+  name: "Vodka Gochujang Pasta"
+  link: "/posts/week-2/#jan-7th-vodka-gochujang-pasta"
+  source: "Meera Sodha - Dinner"
+
+- date: "2026-01-08"
+  name: "Vodka Gochujang Pasta"
+  link: "/posts/week-2/#jan-7th-vodka-gochujang-pasta"
+  source: "Meera Sodha - Dinner"
+
+- date: "2026-01-09"
+  name: "Parsnip Gnocchi"
+  link: "/posts/week-2/#jan-9th-parsnip-gnocchi"
+  source: "Meera Sodha - Dinner"
+
+- date: "2026-01-10"
+  name: "Bean Confit"
+  link: "/posts/week-2/#jan-10th-bean-confit"
+  source: "Georgie Mullen - What to Cook & When to Cook It"
+
+- date: "2026-01-11"
+  name: "Beyond meat cheeseburger"
+  link: "/posts/week-3/#jan-11th-cheeseburger"
+  source: "Navarro Lounge"
+
+- date: "2026-01-12"
+  name: "Butter beans in salsa verde"
+  link: "/posts/week-3/#jan-12th-butter-beans-in-salsa-verde"
+  source: "Meera Sodha - Dinner"
+
+- date: "2026-01-13"
+  name: "Butter beans in salsa verde"
+  link: "/posts/week-3/#jan-12th-butter-beans-in-salsa-verde"
+  source: "Meera Sodha - Dinner"
+
+- date: "2026-01-14"
+  name: "Oven pizza"
+  link: "/posts/week-3/#jan-14th-pizza"
+  source: "Morrisons"
+
+- date: "2026-01-15"
+  name: "Tray baked butter paneer curry"
+  link: "/posts/week-3/#jan-15th-tray-baked-butter-paneer-curry"
+  source: "Meera Sodha - Dinner"
+
+- date: "2026-01-16"
+  name: "Tray baked butter paneer curry"
+  link: "/posts/week-3/#jan-15th-tray-baked-butter-paneer-curry"
+  source: "Meera Sodha - Dinner"
+
+- date: "2026-01-17"
+  name: "Mushroom burrito"
+  link: "/posts/week-3/#jan-17th-mushroom-burrito"
+  source: "Chorlton market"
+
+- date: "2026-01-18"
+  name: "Very untraditional french onion soup"
+  link: "/posts/week-4/#jan-18th-very-untraditional-french-onion-soup"
+  source: "Georgie Mullen - What to Cook & When to Cook It"
+
+- date: "2026-01-19"
+  name: "Very untraditional french onion soup"
+  link: "/posts/week-4/#jan-18th-very-untraditional-french-onion-soup"
+  source: "Georgie Mullen - What to Cook & When to Cook It"
+
+- date: "2026-01-20"
+  name: "Very untraditional french onion soup"
+  link: "/posts/week-4/#jan-18th-very-untraditional-french-onion-soup"
+  source: "Georgie Mullen - What to Cook & When to Cook It"
+
+- date: "2026-01-21"
+  name: "Aubergine pasta"
+  link: "/posts/week-4/#jan-21st-aubergine-pasta"
+  source: "Long lost Jamie Oliver recipe"
+
+- date: "2026-01-22"
+  name: "Aubergine pasta"
+  link: "/posts/week-4/#jan-21st-aubergine-pasta"
+  source: "Long lost Jamie Oliver recipe"
+
+- date: "2026-01-23"
+  name: "Miso onions & Puy lentils"
+  link: "/posts/week-4/#jan-23rd-miso-onions-puy-lentils"
+  source: "Georgie Mullen - What to Cook & When to Cook It"
+
+- date: "2026-01-24"
+  name: "Pumpkin/sweet potato katsu"
+  link: "/posts/week-4/#jan-24th-pumpkin-sweet-potato-katsu-from-gyoza-wang"
+  source: "Gyoza Wang"
+
+- date: "2026-01-25"
+  name: "Parsnip Gnocchi"
+  link: "/posts/week-5/#jan-25th-parsnip-gnocchi"
+  source: "Meera Sodha - Dinner"
+
+- date: "2026-01-26"
+  name: "Parsnip Gnocchi"
+  link: "/posts/week-5/#jan-25th-parsnip-gnocchi"
+  source: "Meera Sodha - Dinner"
+
+- date: "2026-01-27"
+  name: "Miso leek flan"
+  link: "/posts/week-5/#jan-27th-miso-leek-flan"
+  source: "The Guardian"
+
+- date: "2026-01-28"
+  name: "Miso leek flan"
+  link: "/posts/week-5/#jan-27th-miso-leek-flan"
+  source: "The Guardian"
+
+- date: "2026-01-29"
+  name: "Leek, thyme & butter bean gratin"
+  link: "/posts/week-5/#jan-29th-leek-thyme-butter-bean-gratin"
+  source: "Georgie Mullen - What to Cook & When to Cook It"
+
+- date: "2026-01-30"
+  name: "Leek, thyme & butter bean gratin"
+  link: "/posts/week-5/#jan-29th-leek-thyme-butter-bean-gratin"
+  source: "Georgie Mullen - What to Cook & When to Cook It"
+
+- date: "2026-01-31"
+  name: "Meal out at Skof"
+  link: "/posts/week-a/"
+  source: ""
+
+- date: "2026-02-01"
+  name: "Corn Supremacy pizza"
+  link: "/posts/week-6/"
+  source: "Nells"
+
+- date: "2026-02-02"
+  name: "Sesame noodles with spicy fried soya mince"
+  link: "/posts/week-6/"
+  source: "Meera Sodha - Dinner"
+
+- date: "2026-02-03"
+  name: "Curry"
+  link: "/posts/week-6/"
+  source: "Indian Tiffin Room"
+
+- date: "2026-02-04"
+  name: "Curry"
+  link: "/posts/week-6/"
+  source: "Indian Tiffin Room"
+
+- date: "2026-02-05"
+  name: "Spiced bulgur balls with pomegranate"
+  link: "/posts/week-6/"
+  source: "The Guardian"
+
+- date: "2026-02-06"
+  name: "Spiced bulgur balls with pomegranate"
+  link: "/posts/week-6/"
+  source: "The Guardian"
+
+- date: "2026-02-07"
+  name: "Roast garlic & fennel mash"
+  link: "/posts/week-6/"
+  source: "Dennis Cotter - For the Love of Food"
