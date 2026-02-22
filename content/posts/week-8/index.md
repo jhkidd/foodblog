@@ -74,7 +74,7 @@ The Paper Kites are a mostly nice acoustic-y folk, although they did stray into 
 {{< video src="paper-kites.mp4" width="600" >}}
 
 
-I also copied an idea from my boss who also plays D&D, and wrote up an in-universe newspaper for my players, *The Sword Coast Courier*. I had a lot of fun writing the articles, sprinkling in some quest thread, group in-jokes, a letter to the editor about dragons secretly being behind everything by Davyd Icke, and a two star review of a play about star crossed giant lovers.
+I also copied an idea from my boss who plays D&D, and wrote up an in-universe newspaper for my players, *The Sword Coast Courier*. I had a lot of fun writing the articles, sprinkling in some quest thread, group in-jokes, a letter to the editor about dragons secretly being behind everything by Davyd Icke, and a two star review of a play about star crossed giant lovers.
 
 I also dug up my old primary school arts and crafts knowledge and stained the paper with tea to make it look like parchment.
 
