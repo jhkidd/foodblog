@@ -74,7 +74,7 @@ Once it's all incorporated and cooked together for a minute, add in your garamas
 
 This is a recipe that get's even better the next day, worth making a batch.
 
-![It will look better I promise](dal.jpg)
+![The finished dal](dal.jpg)
 
 # Mar 6th: Bowl of healthy stuff
 
@@ -82,7 +82,7 @@ After eating curry for most of the week, I started craving a bit of veg and gree
 
 Did a satay sauce with some peanut butter, siracha, squeeze of lemon juice and brown sugar.
 
-![It will look better I promise](bowl.jpg)
+![Bowl of healthy stuff](bowl.jpg)
 
 
 # Mar 7th: Mia's arepa
