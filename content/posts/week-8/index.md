@@ -6,7 +6,7 @@ description = "In a bold move for me, I make two things without a recipe."
 image = 'cover.jpg'
 +++
 
-# Week Eight: Sunday Feb 15th - Friday Feb 21st
+# Week Eight: Sunday Feb 15th - Saturday Feb 21st
 
 * **Feb 15th**: More spaghetti all'assassina
 * **Feb 16th**: Cauliflower gnocchi cheese & a green crumb (*new*)

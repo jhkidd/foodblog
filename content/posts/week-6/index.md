@@ -6,7 +6,7 @@ description = 'Its a disappointing start to the week, but ends with a very good 
 image = 'bulgur.jpg'
 +++
 
-# Week Six: Sunday Feb 1st - Friday Feb 7th
+# Week Six: Sunday Feb 1st - Saturday Feb 7th
 
 * **Feb 1st**: Corn supremacy 
 * **Feb 2nd**: Sesame noodles with spicy fried soya mince (*new*)

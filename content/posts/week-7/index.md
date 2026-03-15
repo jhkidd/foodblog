@@ -6,7 +6,7 @@ description = "Looking back while writing this, I hadn't noticed how many beans 
 image = 'pasta-cover.jpg'
 +++
 
-# Week Seven: Sunday Feb 8th - Friday Feb 14th
+# Week Seven: Sunday Feb 8th - Saturday Feb 14th
 
 * **Feb 8th**: Leftover roast garlic & fennel mash
 * **Feb 9th**: Butter beans in salsa verde

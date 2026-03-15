@@ -6,7 +6,7 @@ description = "I barely cook this week, mostly eating out and takeaways"
 image = 'cover.jpg'
 +++
 
-# Week Nine: Sunday Feb 22nd - Friday Feb 28th
+# Week Nine: Sunday Feb 22nd - Saturday Feb 28th
 
 * **Feb 22nd**: Olive pizza from Double Zero
 * **Feb 23rd**: Onion and potato bhaji burgers

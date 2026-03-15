@@ -6,7 +6,7 @@ description = "Another Fat Pats, four straight days of curry, and a bit of south
 image = 'cover.jpg'
 +++
 
-# Week ten: Sunday Mar 1st - Friday Mar 7th
+# Week ten: Sunday Mar 1st - Saturday Mar 7th
 
 * **Mar 1st**: Fat pats
 * **Mar 2nd**: Dal Makhani
