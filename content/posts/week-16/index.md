@@ -1,8 +1,8 @@
 +++
 date = '2026-04-18T14:10:41Z'
 draft = false
-title = "Week 16 - "
-description = ""
+title = "Week 16 - Experiments in Foraging"
+description = "I make bulgur balls for a work cook-off, attempt a spring soup, and give in to the Chorlton stereotypes by becoming the kind of person who forages their own wild garlic."
 image = 'cover.jpg'
 +++
 
@@ -18,7 +18,7 @@ image = 'cover.jpg'
 
 # Apr 12th: Greek salad
 
-I felt like having something light and easy to make, so I went for a greek-ish salad. A nice palette cleanser after the previous few weeks of alpine dumplings and mac and cheese. Nothing too fancy, some olives, feta, tomatoes, cucumber. There's something about a simple salad that puts me in a spring mood.
+I felt like having something light and easy to make, so I went for a greek-ish salad. A nice palate cleanser after the previous few weeks of alpine dumplings and mac and cheese. Nothing too fancy, some olives, feta, tomatoes, cucumber. There's something about a simple salad that puts me in a spring mood.
 
 I'm aware this is another fairly thin entry for a food blog. In my defence the salad was good, and sometimes that's all there is to say about it.
 
@@ -40,7 +40,7 @@ Other people in the office mostly brought in cakes/tiffin. There were a couple o
 
 This is another one from Georgie Mullen's "what to cook and when to cook it". I had a flip through the spring section and this one caught my eye, a spring minestrone soup.
 
-Recipe was just cooking some green veggies in a stock, with pasta. Had some peas, asparagus, spring onions, mint and parsley. Honestly, it was fine but not one I'd make again. There's a bit of grated lemon in at the end to help lift it, but with it all being cooed in stock it's heavy and gloopier than I'd like from a dish with this much greenery in it.
+Recipe was just cooking some green veggies in a stock, with pasta. Had some peas, asparagus, spring onions, mint and parsley. Honestly, it was fine but not one I'd make again. There's a bit of grated lemon in at the end to help lift it, but with it all being cooked in stock it's heavy and gloopier than I'd like from a dish with this much greenery in it.
 
 ![Spring-estrone soup](springestrone.jpg)
 
@@ -49,6 +49,8 @@ Recipe was just cooking some green veggies in a stock, with pasta. Had some peas
 I really enjoyed the grilled cheese and tomato soup I had in the states a few weeks ago, so I figured I'd recreate here. Soup was just shop-bought I'm afraid. The little hack I picked up from the one in Pikes Place is adding a little bit of grated cheese to the pan at the end, to melt into the outside of the sandwich. 
 
 ![Tomato soup and cheese toastie](sandwich.jpg)
+
+It didn't quite reach the heights of the Sound View Cafe version, but it was a solid weeknight approximation.
 
 # Apr 17th: 22 inch pizza from Nells
 
@@ -68,13 +70,13 @@ It turned out finding some was very easy, not sure why I've never thought to do 
 
 ![Wild garlic, thoroughly washed](garlic.jpg)
 
-The actual recipe was for Gnudi, an italian 'dumpling' made from mostly riccota, mixed with wilted wild garlic, nutmeg, and parmesan. I think there's some relation to gnocchi, although I'm not sure given there's no potato. You roll the mixture into balls, cover in semolina, then boil for a few minutes.
+The actual recipe was for Gnudi, an italian 'dumpling' made from mostly ricotta, mixed with wilted wild garlic, nutmeg, and parmesan. I think there's some relation to gnocchi, although I'm not sure given there's no potato. You roll the mixture into balls, cover in semolina, then boil for a few minutes.
 
 This is served on a very basic tomato sauce, made from a tin of plum tomatoes, some butter and half an onion.
 
 ![Wild garlic Gnudi on a tomato sauce](gnudi.jpg)
 
-Finish it off with a bit more parmesan.
+I finished it off with a bit more parmesan. The wild garlic comes through much more gently than you'd expect given how strongly it smelled. Apparently once you get to may it's a stronger taste but the leaves are tougher.
 
 # Other than food
 
