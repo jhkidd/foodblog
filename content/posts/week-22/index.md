@@ -62,7 +62,7 @@ Friday I just felt like eating a takeaway in the last of the sun, so I ordered f
 
 ![Arepa, empanada and tequeños](empanada.jpg)
 
-# May 30th: 
+# May 30th: Sushi
 
 Another takeaway on the saturday, Andrew talked me into it. It was still very hot, so we went with a japanese place, so I could get some sushi. I went with a platter or various things, mostly different combinations of rice, tofu, cucumber, and avocado. Standout was some very good tofu marinated in a sweet and spicy sauce.
 

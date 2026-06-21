@@ -8,8 +8,8 @@ image = 'cover.jpg'
 
 # Week Twenty-three: Sunday May 31st - Saturday June 6th
 
-* **May 31st**: Pickle pizza and saffron milk cake
-* **June 1st**: Charred corn, avocado and jalapeno dip
+* **May 31st**: Pickle pizza and saffron milk cake (*new*)
+* **June 1st**: Charred corn, avocado and jalapeno dip (*new*)
 * **June 2nd**: leftover avocado
 * **June 3rd**: Butter beans in salsa verde
 * **June 4th**: Last of the lovage pesto
