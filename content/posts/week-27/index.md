@@ -11,9 +11,9 @@ image = 'cover.jpg'
 * **June 28th**: Nut roast dinner with sticky toffee pudding
 * **June 29th**: Ugly salad 
 * **June 30th**: Leftover salad
-* **July 1st**: Burrata and basil oil
+* **July 1st**: Burrata and basil oil (*new*)
 * **July 2nd**: More burrata
-* **July 3rd**: Veggie burgers
+* **July 3rd**: Veggie burgers (*new*)
 * **July 4th**: Full english + hotdogs
 
 # June 28th: Nut roast dinner with sticky toffee pudding
