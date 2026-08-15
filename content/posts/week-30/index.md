@@ -1,8 +1,8 @@
 +++
 date = '2026-08-15T01:00:56Z'
 draft = false
-title = "Week 30 - "
-description = ""
+title = "Week 30 - Eating Mediterranean"
+description = "A Meera Sodha roasted Greek orzo, a trip to Yane for natto and lotus root crisps, rogue pizza options and olive oil-braised leeks with harissa."
 image = 'cover.jpg'
 +++
 
@@ -10,9 +10,9 @@ image = 'cover.jpg'
 
 * **July 19th**: Pizza
 * **July 20th**: Roasted Greek salad with orzo
-* **July 21th**: leftover salad
-* **July 22th**: leftover salad
-* **July 23th**: Meal out at Yane
+* **July 21st**: leftover salad
+* **July 22nd**: leftover salad
+* **July 23rd**: Meal out at Yane
 * **July 24th**: Olive oil-braised leeks with harissa and dill
 * **July 25th**: Leftover leeks
 
