@@ -1,5 +1,5 @@
 +++
-date = '2026-10-21T07:00:31Z'
+date = '2026-10-21T00:00:31Z'
 draft = false
 title = "Week 35 - Meatball Subs and a Lundy Landing"
 description = "A peanut butter Viennese veggie burger, homemade meatball subs, a stop at Gloucester Services and a boat ride on the way to Lundy island."
